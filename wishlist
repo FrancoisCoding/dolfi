@@ -1,0 +1,11 @@
+Hiya, the following is an initial list of things i would like fixed or implemented..
+
+1. Re-structure code/fix netlify issue.
+2. Fix product page formatting issues. (https://youtu.be/IkrCen0ZXqU)
+3. Basic JS audio player vs. custom audio player.
+4. Add to cart, check-out process, receipt.
+5. Postnord tracking widget (https://developer.postnord.com/api/docs/tracking_widget).
+
+I would think #s 1, 4, 5 would be most critical. Can you think of anything off the top of your head that might be a good idea, too?
+Thanks,
+Evan
