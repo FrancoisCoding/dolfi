@@ -192,14 +192,14 @@ margin-right:4vw;
   .col-25 {
   text-align: right;
   color: black;
-  font-size: 1.5em;
+  font-size: 1.34em;
   font-weight: bold;
   }
 
   .col-75 {
   text-align: right;
   color: black;
-  font-size: 1.5em;
+  font-size: 1.34em;
   font-weight: bold;
   }
 }
@@ -219,6 +219,7 @@ margin-right:7.34vw;
     margin-left: 24.67vw;
     width: 62vw;
     height:48em;
+    margin-top:3em;
     }
 
   .col-25 {

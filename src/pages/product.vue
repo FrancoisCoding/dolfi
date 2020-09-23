@@ -312,7 +312,7 @@ p {
     margin-top: 2.3em;
     margin-bottom: .67em;
     height: 36em;
-    background-color:yellow;}
+    background-color: none;}
 
 table {
   border-collapse: collapse;
@@ -332,11 +332,11 @@ table {
   padding-bottom: 0em;}
 
 .item6 {
-  background-color:lime;}
+  background-color:none;}
 
   .right{
     width: 53%;
-    background-color: red;} 
+    background-color:none;} 
   
   .column {
   float: left;

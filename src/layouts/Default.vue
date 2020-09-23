@@ -331,7 +331,6 @@ form.example::after {
     text-rendering: optimizeLegibility;}
 * {box-sizing: border-box;}
 
-
 /* Change background on mouse-over */
 .navbar a:hover {
   color: red;
