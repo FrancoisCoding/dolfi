@@ -11,15 +11,15 @@
 SUMMARY
 1. Netlify issue
 2. Fix product page glitch
-  3a. Standard JS audio player
-  3b. Custom JS audio player
+3a. Standard JS audio player
+3b. Custom JS audio player
 4. Add to cart, check-out, receipt workflow
 5. Postnord tracking api
 
 ESTIMATE HOURLY
-1.
-2.
-3a.
-3b.
-4.
-5.
+1. 15
+2. 15
+3a. 22
+3b. 30
+4. 30
+5. 22
