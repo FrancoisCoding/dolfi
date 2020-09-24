@@ -1,0 +1,25 @@
+1. Re-structure code/fix netlify issue: Right now, the site is sort of deployed to netlify, but some of the responsive functionality is gone. Plus none of the images load, just a blurry thumbnail instead. When I check it out in Inspector, it displays an error that is far beyond my competency. I talked to a friend who suggested it has to do with the way I structured my content.
+
+2. Fix product page formatting issues. (https://youtu.be/tvd5GpTQduw): A pretty annoying glitch when the site is on mobile. Its probably pretty simple CSS that is responsible here. 
+
+3. Basic JS audio player vs. custom audio player: Clips play on click. Stop on click OR when a different clip is clicked. OR build a custom CSS audio player like this  (https://youtu.be/xCzeIP1JzmE).
+
+4. Add to cart: https://codepen.io/justinklemm/pen/zAdoJ, check-out process: https://codepen.io/jamiehalvorson/pen/BQJaQr, receipt: https://codepen.io/garrettbear/pen/JzMmqg
+
+5. Postnord tracking widget: (https://developer.postnord.com/api/docs/tracking_widget), (https://codepen.io/veticus/pen/KKdepmq)
+
+SUMMARY
+1. Netlify issue
+2. Fix product page glitch
+  3a. Standard JS audio player
+  3b. Custom JS audio player
+4. Add to cart, check-out, receipt workflow
+5. Postnord tracking api
+
+ESTIMATE HOURLY
+1.
+2.
+3a.
+3b.
+4.
+5.
